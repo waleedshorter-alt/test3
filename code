@@ -1,0 +1,7 @@
+bot.py
+config.py
+Procfile
+requirements.txt
+cogs/
+utils/
+...
